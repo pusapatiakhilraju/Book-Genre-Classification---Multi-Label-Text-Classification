@@ -11,4 +11,11 @@ Steps :
 8) Tune HyperParameters
 9) Finalize the Best Model
 
-Download the Python File Which will Have the complete explaination of the Procedures
+Steps to Run the code provided:
+
+1) Download the Zip File uploaded.
+2) Unzip the file. 
+3) Place both Summaries.txt and Book Genre prediction.ipynb in the same folder
+4) Run the python file 
+
+
