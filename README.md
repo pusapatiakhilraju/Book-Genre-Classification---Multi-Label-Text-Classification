@@ -13,9 +13,10 @@ Steps :
 
 Steps to Run the code provided:
 
-1) Download the Zip File uploaded.
-2) Unzip the file. 
-3) Place both Summaries.txt and Book Genre prediction.ipynb in the same folder
-4) Run the python file 
+1) Download the Dataset from http://www.cs.cmu.edu/~dbamman/booksummaries.html#:~:text=This%20dataset%20contains%20plot%20summaries,Creative%20Commons%20Attribution%2DShareAlike%20License
+2) Unizip the Dataset
+3) Download the ipynb file.
+4) Put both ipynb file and dataset, "Summaries.txt" in the same folder 
+5) Run the python file 
 
 
