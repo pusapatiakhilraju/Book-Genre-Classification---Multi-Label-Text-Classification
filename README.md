@@ -10,3 +10,5 @@ Steps :
 6) Calculate Accuracy
 8) Tune HyperParameters
 9) Finalize the Best Model
+
+Download the Python File Which will Have the complete explaination of the Procedures
